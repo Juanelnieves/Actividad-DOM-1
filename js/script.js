@@ -1,3 +1,6 @@
+"use strict"
+
+
 // 001-Usando childNodes, selecciona y muestra en la consola todos los nodos hijos del div con id contenedor.
 let contenedor = document.getElementById('contenedor');
 console.log(contenedor.childNodes);

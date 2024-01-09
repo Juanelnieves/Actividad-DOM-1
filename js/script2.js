@@ -1,3 +1,6 @@
+"use strict"
+
+
 // 001 - Usando JavaScript, agrega una nueva fila a la tabla con los siguientes datos: "Pedro", "28", "Colombia".
 let tabla = document.getElementById('miTabla');
 let nuevaFila = tabla.insertRow();
